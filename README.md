@@ -1,12 +1,4 @@
 # testgit
-
-master
-
-
-
-
-dev
-devchange
-testmain
+1
 
 
